@@ -43,11 +43,11 @@ public class Book {
 	Book newBook = new Book();
 	//newBook.printCurrentPage(); // (A)
 	
-	
+	/*
 	HtmlPrinter webBrowser = new HtmlPrinter();
 	PlainTextPrinter textPrinter = new PlainTextPrinter();
 	webBrowser.printPage(newBook.getCurrentPage());
-	textPrinter.printPage(newBook.getCurrentPage());
+	textPrinter.printPage(newBook.getCurrentPage());*/
 
 	}
 	
