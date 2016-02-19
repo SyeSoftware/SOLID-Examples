@@ -1,3 +1,12 @@
+/**
+ * Principio de sustitución de liskov
+ * La siguiente porción de código viola el principio de sustitución de liskov
+ *  
+ * Problema: Necesitamos garantizar el adecuado cumplimiento del principio.
+ * 
+ * ¿Que ajustes tendría que hacer para facilitar que se cumpla el principio?
+ */
+
 package syesoftware.scrum.solid.liskov;
 
 import java.util.ArrayList;
