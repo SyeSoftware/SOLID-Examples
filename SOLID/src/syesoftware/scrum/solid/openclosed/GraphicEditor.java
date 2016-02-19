@@ -1,3 +1,15 @@
+/**
+ * Principio Open-Closed
+ * La siguiente porción de código no favorece a que el principio de open-closed sea llevado acabo
+ * 
+ * Problema: Requerimos dibujar nuevas figuras como serian un triangulo y un pentagono
+ * 
+ * ¿Que ajustes tendría que hacer al código para que el principio open closed sea respetado en caso de querer dibujar un triangulo o un pentagono?
+ * 
+ * 
+ * 
+ */
+
 package syesoftware.scrum.solid.openclosed;
 
 public class GraphicEditor {
