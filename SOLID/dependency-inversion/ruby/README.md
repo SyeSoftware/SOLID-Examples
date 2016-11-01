@@ -1,5 +1,4 @@
 ## Dependency inversion principle
-#### Ruby Example.
 
 Lets see the example:
 
