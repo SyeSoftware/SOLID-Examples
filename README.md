@@ -1,6 +1,6 @@
 # SOLID-Examples
 
-### The SOLID principles:
+#### The SOLID principles:
 
 + [Single responsibility](#)
 + [Open-closed](#)
