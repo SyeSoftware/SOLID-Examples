@@ -15,7 +15,7 @@ end
 
 class XmlFormatter
   def generate(body)
-    # Convert the body argument into XML
+    # Convert the body argument into XML.
   end
 end
 ```
@@ -62,7 +62,7 @@ Well, if we wanted CSV reports, all we would need is to add the following class:
 ```ruby
 class CSVFormatter
   def generate(body)
-    # Convert the body argument into CSV
+    # Convert the body argument into CSV.
   end
 end
 ```
